@@ -1,0 +1,79 @@
+body{
+  font-family: 'Gochi Hand', cursive;
+  background: white;
+  width: 600px;
+  margin: 0 auto;
+  padding: 0;
+}
+h2, h1{
+  color: #cd0000;
+  font-size: 42px;
+  letter-spacing: -2px;
+  text-align: left;
+}
+
+.lines {
+  border-left: 1px solid #ffaa9f;
+  border-right: 1px solid #ffaa9f;
+  width: 2px;
+  float: left;
+  height: 495px;
+  margin-left: 40px;
+}
+
+ul{
+
+  color: #555;
+  font-size: 22px;
+  padding: 0 !important;
+  width: 500px;
+
+  border: 1px solid #dedede;
+
+}
+
+ul li{
+
+  list-style: none;
+  border-bottom: 1px dotted #ccc;
+  text-indent: 25px;
+  height: auto;
+  padding: 10px;
+  text-transform: capitalize;
+
+}
+/* section{
+  background: white;
+  color:gray;
+  width:45%;
+  height:auto;
+  float: left;
+
+}
+h2, h1{
+  border-bottom: 1px solid blue;
+}
+h3{
+  margin-top: 40px;
+  border-bottom: 1px solid blue;
+}
+
+img{
+  width:50%;
+  height:auto;
+  float: left;
+}
+h2, h1, h3, li{
+  padding-left: 10%;
+
+
+}
+
+li{
+  border-bottom: 1px solid blue;
+  padding-bottom: 20px;
+  list-style-type: none;
+  margin-left: -5%;
+  border-left: 2px  groove #ED4C67;
+
+} */
